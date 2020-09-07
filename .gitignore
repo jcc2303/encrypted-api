@@ -1,0 +1,6 @@
+# 
+
+/node_modules
+
+# removed for non production app
+package-lock.json

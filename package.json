@@ -4,6 +4,8 @@
   "description": "example encrypted node express api",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "node --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,8 +21,8 @@
   "bugs": {
     "url": "https://github.com/jcc2303/encrypted-api/issues"
   },
-  "homepage": "https://github.com/jcc2303/encrypted-api#readme"
+  "homepage": "https://github.com/jcc2303/encrypted-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-
-
-
