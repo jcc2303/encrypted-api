@@ -1,0 +1,26 @@
+{
+  "name": "encrypted-api",
+  "version": "1.0.0",
+  "description": "example encrypted node express api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcc2303/encrypted-api.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "cabrera.javier@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcc2303/encrypted-api/issues"
+  },
+  "homepage": "https://github.com/jcc2303/encrypted-api#readme"
+}
+
+
+
