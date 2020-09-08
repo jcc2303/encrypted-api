@@ -21,8 +21,9 @@ app.get("/", (req, res) => res.json({message: "Welcome to our Allocation! -> GET
 
     
 app.route("/allocation")
-    .get(  allocation.getAllocations )
     .post( allocation.postAllocation );
+app.route("/allocation/search")
+    .post(  allocation.getAllocations )
 app.route("/allocation/:id")
     .get( allocation.getAllocation );
 

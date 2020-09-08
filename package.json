@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jcc2303/encrypted-api#readme",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {

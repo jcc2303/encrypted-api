@@ -1,14 +1,15 @@
-{
+{    
     "allocations": [
         {
-            "user_id": "7364823",
-            "encryption": "X1",
-            "json": {"a": "b"}
+            "userId": "USER1",
+            "key": "vOVH6sdmpNWjRRIqCc7rdxs01lwHzfr3",
+            "json": {"a": "b1"},
+            "encrypted": "U2FsdGVkX1+C6uXAlwJFyJ2g2tZARd1a/6ZtsC8dLSk="
         },
         {
-            "user_id": "3824092",
-            "encryption": "Y2",
-            "json": {"a": "b"}
+            "userId": "USER2",
+            "key": "vOVH6sdmpNWjRRIqCc7rdxs01lwHzfr3",
+            "json": {"a": "b2"}
         }
     ]
 }
