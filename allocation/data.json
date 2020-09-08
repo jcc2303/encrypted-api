@@ -1,0 +1,14 @@
+{
+    "allocations": [
+        {
+            "user_id": "7364823",
+            "encryption": "X1",
+            "json": {"a": "b"}
+        },
+        {
+            "user_id": "3824092",
+            "encryption": "Y2",
+            "json": {"a": "b"}
+        }
+    ]
+}
